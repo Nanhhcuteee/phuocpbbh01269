@@ -1,0 +1,30 @@
+
+.panel-heading {
+    background-color: #acc1d6;
+    text-align: center;
+    font-size: 24px; 
+    font-weight: bold; 
+  }
+  
+  
+  .container {
+    padding: 30px;
+  }
+  
+  .panel-body {
+    padding: 20px;
+  }
+  
+  
+  body {
+    font-family: sans-serif;
+  }
+  
+  .panel-heading {
+    font-family: serif;
+  }
+  
+  
+  .panel-body button.btn-success {
+    margin-bottom: 20px;
+  }
